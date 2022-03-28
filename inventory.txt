@@ -1,0 +1,12 @@
+1
+Watch
+123
+true
+1000
+11/01/2022
+Stationary
+good
+/Users/singhsaket/Downloads/items.jpg
+2
+null
+Mango
